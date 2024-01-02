@@ -1,0 +1,30 @@
+Installed Packages
+Name         : gcc
+Version      : 13.2.1
+Release      : 6.fc39
+Architecture : x86_64
+Size         : 95 M
+Source       : gcc-13.2.1-6.fc39.src.rpm
+Repository   : @System
+From repo    : updates
+Summary      : Various compilers (C, C++, Objective-C, ...)
+URL          : http://gcc.gnu.org
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Description  : The gcc package contains the GNU Compiler Collection version 13.
+             : You'll need this package in order to compile C code.
+
+Name         : gcc-c++
+Version      : 13.2.1
+Release      : 6.fc39
+Architecture : x86_64
+Size         : 34 M
+Source       : gcc-13.2.1-6.fc39.src.rpm
+Repository   : @System
+From repo    : updates
+Summary      : C++ support for GCC
+URL          : http://gcc.gnu.org
+License      : GPLv3+ and GPLv3+ with exceptions and GPLv2+ with exceptions and LGPLv2+ and BSD
+Description  : This package adds C++ support to the GNU Compiler Collection.
+             : It includes support for most of the current C++ specification,
+             : including templates and exception handling.
+

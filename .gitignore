@@ -1,0 +1,7 @@
+# Ignore the `target/` directory and
+# all the contents beneath it
+target/
+# Ignore word-processor files `*.docx`
+# and corresponding lock files `.~lock*`
+*.docx
+.~lock*

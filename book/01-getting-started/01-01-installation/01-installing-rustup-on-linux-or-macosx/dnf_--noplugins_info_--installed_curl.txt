@@ -1,0 +1,19 @@
+Installed Packages
+Name         : curl
+Version      : 8.2.1
+Release      : 4.fc39
+Architecture : x86_64
+Size         : 756 k
+Source       : curl-8.2.1-4.fc39.src.rpm
+Repository   : @System
+From repo    : updates
+Summary      : A utility for getting files from remote servers (FTP, HTTP, and others)
+URL          : https://curl.se/
+License      : curl
+Description  : curl is a command line tool for transferring data with URL syntax, supporting
+             : FTP, FTPS, HTTP, HTTPS, SCP, SFTP, TFTP, TELNET, DICT, LDAP, LDAPS, FILE, IMAP,
+             : SMTP, POP3 and RTSP.  curl supports SSL certificates, HTTP POST, HTTP PUT, FTP
+             : uploading, HTTP form based upload, proxies, cookies, user+password
+             : authentication (Basic, Digest, NTLM, Negotiate, kerberos...), file transfer
+             : resume, proxy tunneling and a busload of other useful tricks.
+

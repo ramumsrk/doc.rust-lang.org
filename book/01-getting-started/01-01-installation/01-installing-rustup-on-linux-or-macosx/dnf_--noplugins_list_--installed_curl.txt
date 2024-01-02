@@ -1,0 +1,2 @@
+Installed Packages
+curl.x86_64                        8.2.1-4.fc39                         @updates

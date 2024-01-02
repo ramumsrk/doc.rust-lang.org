@@ -1,0 +1,3 @@
+Installed Packages
+gcc.x86_64                          13.2.1-6.fc39                       @updates
+gcc-c++.x86_64                      13.2.1-6.fc39                       @updates
